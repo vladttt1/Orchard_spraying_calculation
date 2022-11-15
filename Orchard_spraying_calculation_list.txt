@@ -1,0 +1,13 @@
+hey,площадь равна 3458798.0
+Fruit name isdes
+active substance/commertial  name isedfg
+Distance betweeen rows5.0
+Height of trees is... m3.0
+tree row volume =24000.0 m3 или
+24.0mTv = Maximum spray Volume 
+Your customized pesticide rate is 8160.0
+time is Mon Jan 01 03:07:05 EET 2018
+second method of pesticide rate definition:
+Standart dilute volume is23.0
+Quantity of pesticide decreases with 104347.82608695653 %'
+We need totally 2.822379168E8kg
